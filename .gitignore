@@ -1,0 +1,21 @@
+
+# Created by https://www.gitignore.io/api/intellij
+
+### Intellij ###
+
+# User-specific stuff:
+.idea/
+
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
+.gradle
+build
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# Log files
+*.log
