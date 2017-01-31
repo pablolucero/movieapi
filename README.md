@@ -1,11 +1,16 @@
 ## Movie Service Engineering Coding Challenge for backend Java candidates
 
+## How to build
+#### To test the API just clone the repo and run
+  `gradlew bootRun`  
+
+the server must be up in localhost:8080
 
 ### Challenge
 
 Build a REST API that returns data about movies.
 
-
+---
 ### Instructions
 
 * You may use the provided "MovieDatabaseService" class as a source of com.disney.globant.movie data. A simple class is provided to make it 
